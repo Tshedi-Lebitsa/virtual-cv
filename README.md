@@ -11,14 +11,14 @@ This is my Virtual CV project, designed to showcase my academic background, tech
 - **Contact:** Links to email, LinkedIn, and GitHub for easy connection
 
 ## Tech Stack
-- HTML5
-- CSS3
-- GitHub Pages (for hosting)
+- **HTML5** – For structure  
+- **CSS3** – For design and styling (responsive & mobile-friendly)  
+- **JavaScript** – For interactive features  
+- **GitHub Pages** – For hosting the portfolio online
 
 ## Live Link
 [Click here to view my Virtual CV](https://Tshedi-Lebitsa.github.io/virtual-cv/)
 
-## How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/TshedimosetsoLebitsa/virtual-cv.git
+## Contact Me
+- **LinkedIn:** [www.linkedin.com/in/tshedimosetso-lebitsa-10a047304](https://www.linkedin.com/in/tshedimosetso-lebitsa-10a047304)  
+- **GitHub:** [github.com/Tshedi-Lebitsa](https://github.com/Tshedi-Lebitsa)
